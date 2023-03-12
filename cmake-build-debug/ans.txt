@@ -1,0 +1,7 @@
+False positive rate: 0.048868
+False positive rate: 0.097736
+False positive rate: 0.146604
+False positive rate: 0.195472
+False positive rate: 0.24434
+False positive rate: 0.293208
+False positive rate: 0.342076
